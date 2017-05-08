@@ -76,8 +76,8 @@
     <Reference Include="UnityEditor">
       <HintPath>Library\UnityAssemblies\UnityEditor.dll</HintPath>
     </Reference>
-    <Reference Include="System.Drawing">
-      <HintPath>Assets\Plugins\Windows\System.Drawing.dll</HintPath>
+    <Reference Include="ClassLibrary1">
+      <HintPath>Assets\ClassLibrary1.dll</HintPath>
     </Reference>
     <Reference Include="System.Windows.Forms">
       <HintPath>Assets\Plugins\Windows\System.Windows.Forms.dll</HintPath>
